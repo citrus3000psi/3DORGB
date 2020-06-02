@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 3-1775333-2)(type Legacy)(uri ${KIPRJMOD}/3-1775333-2.lib)(options "")(descr ""))
+  (lib (name 3DO_Clio)(type Legacy)(uri ${KIPRJMOD}/3DO_Clio.lib)(options "")(descr ""))
+)

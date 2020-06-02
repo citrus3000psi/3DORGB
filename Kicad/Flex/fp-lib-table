@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 3-1775333-2)(type Legacy)(uri ${KIPRJMOD}/3-1775333-2.mod)(options "")(descr ""))
+  (lib (name PQFP_208)(type Legacy)(uri ${KIPRJMOD}/PQFP_208.mod)(options "")(descr ""))
+)

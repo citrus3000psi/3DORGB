@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name adv7125)(type Legacy)(uri ${KIPRJMOD}/adv7125.lib)(options "")(descr ""))
+  (lib (name CPLD_microchip)(type Legacy)(uri ${KIPRJMOD}/CPLD_microchip.lib)(options "")(descr ""))
+  (lib (name 3-1775333-2)(type Legacy)(uri ${KIPRJMOD}/3-1775333-2.lib)(options "")(descr ""))
+  (lib (name 5M240ZM68C5N)(type Legacy)(uri ${KIPRJMOD}/5M240ZM68C5N.lib)(options "")(descr ""))
+  (lib (name 5M160ZE64I5N)(type Legacy)(uri ${KIPRJMOD}/5M160ZE64I5N.lib)(options "")(descr ""))
+  (lib (name NVT2006BQ_115)(type Legacy)(uri ${KIPRJMOD}/NVT2006BQ_115.lib)(options "")(descr ""))
+  (lib (name 7WB383MUTAG)(type Legacy)(uri ${KIPRJMOD}/7WB383MUTAG.lib)(options "")(descr ""))
+  (lib (name TPS73733DRVR)(type Legacy)(uri ${KIPRJMOD}/TPS73733DRVR.lib)(options "")(descr ""))
+  (lib (name MIC94310)(type Legacy)(uri ${KIPRJMOD}/MIC94310.lib)(options "")(descr ""))
+)
