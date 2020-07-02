@@ -5,7 +5,7 @@ Mini Din addon for 3DO RGB
 * TOP: 1.6mm
 * MIDDLE: 1.6mm
 * BOTTOM: .8mm
-
+* BREAKOUT .8mm
 
 BOM
 * Switch: OS102011MA1QN1
