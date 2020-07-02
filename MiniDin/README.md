@@ -1,21 +1,16 @@
 # 3DORGB
 
-TOP: 1.6mm
+Mini Din addon for 3DO RGB
 
-MIDDLE: 1.6mm
-
-BOTTOM: .8mm
+* TOP: 1.6mm
+* MIDDLE: 1.6mm
+* BOTTOM: .8mm
 
 
 BOM
-
-Switch: OS102011MA1QN1
-
-8Pin Din: MDJ-008-FS
-
-Pins: 5247-0-00-15-00-00-03-0
-
-Mini Din addon for 3DO RGB
+* Switch: OS102011MA1QN1
+* 8Pin Din: MDJ-008-FS
+* Pins: 5247-0-00-15-00-00-03-0
 
 Copyright 2020 Daniel Kunz
 
