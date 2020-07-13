@@ -1,0 +1,94 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+SON40P180X120X55-8N
+$EndINDEX
+$MODULE SON40P180X120X55-8N
+Po 0 0 0 15 00000000 00000000 ~~
+Li SON40P180X120X55-8N
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 0 -1.905 1 1 0 0.05 N V 21 "SON40P180X120X55-8N"
+T1 0.635 1.905 1 1 0 0.05 N V 21 "VAL**"
+DS -0.6 -0.9 0.6 -0.9 0.127 27
+DS 0.6 -0.9 0.6 0.9 0.127 27
+DS 0.6 0.9 -0.6 0.9 0.127 27
+DS -0.6 0.9 -0.6 -0.9 0.127 27
+DS -0.6 -1.124 0.6 -1.124 0.127 21
+DS 0.6 1.124 -0.6 1.124 0.127 21
+DC -1.6 -0.7 -1.5 -0.7 0.2 21
+DC -1.6 -0.7 -1.5 -0.7 0.2 27
+DS -1.21 -1.15 1.21 -1.15 0.05 26
+DS 1.21 -1.15 1.21 1.15 0.05 26
+DS 1.21 1.15 -1.21 1.15 0.05 26
+DS -1.21 1.15 -1.21 -1.15 0.05 26
+$PAD
+Sh "1" R 0.88 0.32 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.515 -0.65
+$EndPAD
+$PAD
+Sh "2" R 0.88 0.22 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.515 -0.2
+$EndPAD
+$PAD
+Sh "3" R 0.88 0.22 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.515 0.2
+$EndPAD
+$PAD
+Sh "4" R 0.88 0.22 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.515 0.6
+$EndPAD
+$PAD
+Sh "5" R 0.88 0.22 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.515 0.6
+$EndPAD
+$PAD
+Sh "6" R 0.88 0.22 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.515 0.2
+$EndPAD
+$PAD
+Sh "7" R 0.88 0.22 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.515 -0.2
+$EndPAD
+$PAD
+Sh "8" R 0.88 0.22 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0.515 -0.6
+$EndPAD
+$EndMODULE SON40P180X120X55-8N
